@@ -19,12 +19,3 @@ phone = "555-867-5309"
 area = "CIS-121"
 print_address(name,address,city_state_zip,phone,area)
 
-
-
-
-
-
-
-
-
-
