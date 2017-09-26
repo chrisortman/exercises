@@ -23,8 +23,7 @@ projected_profit = projected_sales * profit_margin
 
 # Print the projected profit.
 # be sure to format the output to two decimal places
-output = "Your projected profit is {0:.2f}" % projected_profit
-print(output)
+print("Your projected profit is $", format(projected_profit, ".2f"), sep="")
 
 
 
