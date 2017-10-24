@@ -41,7 +41,8 @@ def print_row(time, distance):
 
 
 # Call the main function to start the program
-main()
+if __name__ == "__main__":
+    main()
 
 
 
