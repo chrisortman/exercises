@@ -7,24 +7,25 @@
 
 
 # define the main function
-
+def main():
     # Declare a local variable to hold the file contents
     # initialize it as an empty string
-
+    contents = ''
     
     # Open numbers.txt file for reading
     # that is, use a variable to hold the file handle created when opening the file
+    numbers_file = open('numbers.txt','r')
 
 
     # Read in data and store its contents
-
+    contents = numbers_file.read()
 
     # Close file
-
+    numbers_file.close()
 
     # Print the contents
-
+    print(contents)
 
 # Call the main function.
-
+main()
 
