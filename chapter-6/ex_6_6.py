@@ -34,3 +34,14 @@
 # Call the main function to start the program
 
 
+def main() :
+    lines = [line.rstrip('\n') for line in open('numbers.txt')]
+    total = 0
+    for x in lines :
+        total += int(x)
+    average = total / float(len(lines))
+    average = "{0:.2f}".format(average)
+    print("The average is " + average)
+    
+main()
+
