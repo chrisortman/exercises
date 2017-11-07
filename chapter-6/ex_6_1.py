@@ -22,6 +22,7 @@ def main():
     # Close file
     numbers_file.close()
 
+    # Close file
     # Print the contents
     print(contents)
 

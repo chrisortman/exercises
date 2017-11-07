@@ -1,0 +1,338 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#"
+      xmlns:fb="https://www.facebook.com/2008/fbml" lang="en">
+<head>
+<title>Page 1721 - Xbox Live Gamerscore Leaderboards </title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="description" content="Check whos got the highest gamerscore with our Xbox Live Leaderboards." />
+<meta name="keywords" content="xbox, xbox gamertag, gamertag, gamertag search, xbox gamertag search, xbox live, gamercards, gamertag generator, gamercard generator, xbox one" />
+<meta name="google-site-verification" content="DawowDmV2J68zDd4Ej0RdjF9C4mPykmq7smE1F2bgTw" />
+<!-- Stylesheets -->
+<link rel="stylesheet" type="text/css" href="/resources/css/main.css" />
+<link rel="stylesheet" type="text/css" href="/resources/css/content/leaderboards.css" />
+<!-- Digital window verification 001 -->
+
+<!-- Javascript -->
+<script type="text/javascript" src="/resources/scripts/jquery-1.7.2.min.js"></script>
+
+<!--[if lt IE 7]>
+<script type="text/javascript" src="/resources/scripts/supersleight.plugin.js"></script>
+<script>
+$(document).ready(function()
+{
+	$('img, div, input').supersleight();
+});
+</script>
+<![endif]-->
+
+<div id="fb-root"></div>
+<script type="text/javascript">(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_GB/all.js#xfbml=1&appId=190837717693571";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+</script>
+
+
+
+</head>
+<body>
+
+
+
+<div id="container" >
+<noscript>For full functionality of this page it is necessary to enable JavaScript. Here are the <a href="http://www.enable-javascript.com" target="_blank"> instructions how to enable JavaScript in your web browser</a></noscript>
+	
+	<h1 id="MainTitle"><a href="//www.xboxgamertag.com/">Xbox Gamertag</a></h1>
+								
+<div class="topAd">
+	
+	<script type="text/javascript"><!--
+	google_ad_client = "ca-pub-5544850898506231";
+	/* Top Advert - SSL Only */
+	google_ad_slot = "2614407333";
+	google_ad_width = 468;
+	google_ad_height = 60;
+	//-->
+	</script>
+	<script type="text/javascript"
+	src="//pagead2.googlesyndication.com/pagead/show_ads.js">
+	</script>
+	
+</div>	
+	
+	<div id="topLinks">
+		<ul>
+						<li><a href="/login/">Login</a></li>
+						
+		</ul>
+	</div>
+	<div id="XGTHeader">
+		<ul id="Menu">
+			<li class="image"><a href="/"><img src="/resources/images/homeHouse.png" alt="xboxgamertag" /></a></li>
+			<li class="left"><a href="/gamercard/">Gamercards</a></li>
+			<li class="left"><a href="/gamertag-generator/">Gamertag Generator</a></li>
+			<li class="left"><a href="/achievements/">Achievements</a></li>
+			<li class="left"><a href="/leaderboards/">Leaderboards</a></li>
+
+			<!---<li class="rightOption"><a href="/forum/">Forums</a></li>-->
+			
+			<li class="rightOption"><a href="http://www.facebook.com/pages/Xbox-Gamertag/134742809876061" rel="nofollow" target="_blank">Share Your Gamertag</a></li>
+
+
+		</ul>
+		<!---->
+	</div>
+	<div id="XGTMain" >
+<h2 id="leader">Xbox Live Gamerscore Leaderboards</h2>
+<p>The Xbox Live Leaderboards rank every user whos gamertag has been looked up on our site.</p>
+
+<div class="center ads">
+	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+	<!-- Leaderboard Page -->
+	<ins class="adsbygoogle"
+		 style="display:inline-block;width:728px;height:90px"
+		 data-ad-client="ca-pub-5544850898506231"
+		 data-ad-slot="6096791733"></ins>
+	<script>
+	(adsbygoogle = window.adsbygoogle || []).push({});
+	</script>
+</div>
+
+<table id="leaderboard" cellspacing=0 cellpadding=0>
+<tr>
+	<th>Rank</th>
+	<th>Gamerpicz</th>
+	<th>Gamertag</th>
+	<th>Gamerscore</th>
+	<th>Gamerzone</th>
+</tr>
+	<tr class="tr1 row">
+		<td class="rank">34,401</td>
+		<td><img width="40px" height="40px" src="http://image.xboxlive.com/global/t.4b4b07d1/tile/0/280c9" alt="Midwest Monster" title="Midwest Monster" /></td>
+		<td><a href="/search/Midwest-Monster/"/>Midwest Monster</a></td>
+		<td>77,065</td>
+		<td class="zone">Pro</td>
+		<td></td>
+	</tr>
+	<tr class="tr2 row">
+		<td class="rank">34,402</td>
+		<td><img width="40px" height="40px" src="http://image.xboxlive.com/global/t.584108f6/tile/0/20002" alt="Slipyx" title="Slipyx" /></td>
+		<td><a href="/search/Slipyx/"/>Slipyx</a></td>
+		<td>77,065</td>
+		<td class="zone">Recreation</td>
+		<td></td>
+	</tr>
+	<tr class="tr1 row">
+		<td class="rank">34,403</td>
+		<td><img width="40px" height="40px" src="http://image.xboxlive.com/global/t.494d8847/tile/0/20003" alt="Moustachio" title="Moustachio" /></td>
+		<td><a href="/search/Moustachio/"/>Moustachio</a></td>
+		<td>77,065</td>
+		<td class="zone">Recreation</td>
+		<td></td>
+	</tr>
+	<tr class="tr2 row">
+		<td class="rank">34,404</td>
+		<td><img width="40px" height="40px" src="http://image.xboxlive.com/global/t.fffe07d1/tile/0/20006" alt="aXer" title="aXer" /></td>
+		<td><a href="/search/aXer/"/>aXer</a></td>
+		<td>77,065</td>
+		<td class="zone">None</td>
+		<td></td>
+	</tr>
+	<tr class="tr1 row">
+		<td class="rank">34,405</td>
+		<td><img width="40px" height="40px" src="http://image.xboxlive.com/global/t.4d53082d/tile/0/20001" alt="trey4770" title="trey4770" /></td>
+		<td><a href="/search/trey4770/"/>trey4770</a></td>
+		<td>77,063</td>
+		<td class="zone">Underground</td>
+		<td></td>
+	</tr>
+	<tr class="tr2 row">
+		<td class="rank">34,406</td>
+		<td><img width="40px" height="40px" src="http://image.xboxlive.com/global/t.444d07dd/tile/0/20404" alt="MAJOR PAIN5000" title="MAJOR PAIN5000" /></td>
+		<td><a href="/search/MAJOR-PAIN5000/"/>MAJOR PAIN5000</a></td>
+		<td>77,063</td>
+		<td class="zone">Pro</td>
+		<td></td>
+	</tr>
+	<tr class="tr1 row">
+		<td class="rank">34,407</td>
+		<td><img width="40px" height="40px" src="http://image.xboxlive.com/global/t.58570a53/tile/0/2040a" alt="Mr Dovahkiin 44" title="Mr Dovahkiin 44" /></td>
+		<td><a href="/search/Mr-Dovahkiin-44/"/>Mr Dovahkiin 44</a></td>
+		<td>77,062</td>
+		<td class="zone">Underground</td>
+		<td></td>
+	</tr>
+	<tr class="tr2 row">
+		<td class="rank">34,408</td>
+		<td><img width="40px" height="40px" src="http://image.xboxlive.com/global/t.415807d8/tile/0/20405" alt="Nyte Lyte" title="Nyte Lyte" /></td>
+		<td><a href="/search/Nyte-Lyte/"/>Nyte Lyte</a></td>
+		<td>77,062</td>
+		<td class="zone">Pro</td>
+		<td></td>
+	</tr>
+	<tr class="tr1 row">
+		<td class="rank">34,409</td>
+		<td><img width="40px" height="40px" src="http://avatar.xboxlive.com/avatar/young jot/avatarpic-l.png" alt="young jot" title="young jot" /></td>
+		<td><a href="/search/young-jot/"/>young jot</a></td>
+		<td>77,060</td>
+		<td class="zone">Pro</td>
+		<td></td>
+	</tr>
+	<tr class="tr2 row">
+		<td class="rank">34,410</td>
+		<td><img width="40px" height="40px" src="http://image.xboxlive.com/global/t.544307d5/tile/0/20005" alt="FTW1884MJ" title="FTW1884MJ" /></td>
+		<td><a href="/search/FTW1884MJ/"/>FTW1884MJ</a></td>
+		<td>77,060</td>
+		<td class="zone">Recreation</td>
+		<td></td>
+	</tr>
+	<tr class="tr1 row">
+		<td class="rank">34,411</td>
+		<td><img width="40px" height="40px" src="http://image.xboxlive.com/global/t.53510806/tile/0/20002" alt="BoldfacedSparky" title="BoldfacedSparky" /></td>
+		<td><a href="/search/BoldfacedSparky/"/>BoldfacedSparky</a></td>
+		<td>77,059</td>
+		<td class="zone">Underground</td>
+		<td></td>
+	</tr>
+	<tr class="tr2 row">
+		<td class="rank">34,412</td>
+		<td><img width="40px" height="40px" src="http://avatar.xboxlive.com/avatar/Devil Devine/avatarpic-l.png" alt="Devil Devine" title="Devil Devine" /></td>
+		<td><a href="/search/Devil-Devine/"/>Devil Devine</a></td>
+		<td>77,058</td>
+		<td class="zone">Recreation</td>
+		<td></td>
+	</tr>
+	<tr class="tr1 row">
+		<td class="rank">34,413</td>
+		<td><img width="40px" height="40px" src="http://image.xboxlive.com/global/t.58580803/tile/0/28002" alt="Shinraman1" title="Shinraman1" /></td>
+		<td><a href="/search/Shinraman1/"/>Shinraman1</a></td>
+		<td>77,057</td>
+		<td class="zone">Underground</td>
+		<td></td>
+	</tr>
+	<tr class="tr2 row">
+		<td class="rank">34,414</td>
+		<td><img width="40px" height="40px" src="http://avatar.xboxlive.com/avatar/Sillage/avatarpic-l.png" alt="Sillage" title="Sillage" /></td>
+		<td><a href="/search/Sillage/"/>Sillage</a></td>
+		<td>77,057</td>
+		<td class="zone">Recreation</td>
+		<td></td>
+	</tr>
+	<tr class="tr1 row">
+		<td class="rank">34,415</td>
+		<td><img width="40px" height="40px" src="http://avatar.xboxlive.com/avatar/Thy H0OLiGaN/avatarpic-l.png" alt="Thy H0OLiGaN" title="Thy H0OLiGaN" /></td>
+		<td><a href="/search/Thy-H0OLiGaN/"/>Thy H0OLiGaN</a></td>
+		<td>77,057</td>
+		<td class="zone">Underground</td>
+		<td></td>
+	</tr>
+	<tr class="tr2 row">
+		<td class="rank">34,416</td>
+		<td><img width="40px" height="40px" src="http://image.xboxlive.com/global/t.584111f7/tile/0/2041f" alt="Beber" title="Beber" /></td>
+		<td><a href="/search/Beber/"/>Beber</a></td>
+		<td>77,056</td>
+		<td class="zone">Recreation</td>
+		<td></td>
+	</tr>
+	<tr class="tr1 row">
+		<td class="rank">34,417</td>
+		<td><img width="40px" height="40px" src="http://avatar.xboxlive.com/avatar/MadDestroyer/avatarpic-l.png" alt="MadDestroyer" title="MadDestroyer" /></td>
+		<td><a href="/search/MadDestroyer/"/>MadDestroyer</a></td>
+		<td>77,056</td>
+		<td class="zone">Underground</td>
+		<td></td>
+	</tr>
+	<tr class="tr2 row">
+		<td class="rank">34,418</td>
+		<td><img width="40px" height="40px" src="http://image.xboxlive.com/global/t.454108cf/tile/0/28000" alt="Deadish" title="Deadish" /></td>
+		<td><a href="/search/Deadish/"/>Deadish</a></td>
+		<td>77,055</td>
+		<td class="zone">Underground</td>
+		<td></td>
+	</tr>
+	<tr class="tr1 row">
+		<td class="rank">34,419</td>
+		<td><img width="40px" height="40px" src="http://image.xboxlive.com/global/t.434d07ff/tile/0/20003" alt="Dream Elite" title="Dream Elite" /></td>
+		<td><a href="/search/Dream-Elite/"/>Dream Elite</a></td>
+		<td>77,055</td>
+		<td class="zone">Pro</td>
+		<td></td>
+	</tr>
+	<tr class="tr2 row">
+		<td class="rank">34,420</td>
+		<td><img width="40px" height="40px" src="http://avatar.xboxlive.com/avatar/darklexM/avatarpic-l.png" alt="darklexM" title="darklexM" /></td>
+		<td><a href="/search/darklexM/"/>darklexM</a></td>
+		<td>77,055</td>
+		<td class="zone">Recreation</td>
+		<td></td>
+	</tr>
+</table>
+		<ul class="pagination">
+							<li><a href="/leaderboards/1/">1</a></li>
+				<li class="current">...</li>
+															<li><a href="/leaderboards/1718/">1718</a></li>
+								
+												<li><a href="/leaderboards/1719/">1719</a></li>
+								
+												<li><a href="/leaderboards/1720/">1720</a></li>
+								
+																		<li class="current">1721</li>
+													
+												<li><a href="/leaderboards/1722/">1722</a></li>
+								
+												<li><a href="/leaderboards/1723/">1723</a></li>
+								
+												<li><a href="/leaderboards/1724/">1724</a></li>
+								
+										<li class="current">...</li>
+				<li><a href="/leaderboards/77650/">77650</a></li>
+					</ul>
+<div class="center ads">
+	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+	<!-- Leaderboard Page -->
+	<ins class="adsbygoogle"
+		 style="display:inline-block;width:728px;height:90px"
+		 data-ad-client="ca-pub-5544850898506231"
+		 data-ad-slot="6096791733"></ins>
+	<script>
+	(adsbygoogle = window.adsbygoogle || []).push({});
+	</script>
+</div>
+
+</div>
+	<div class="XGTFooter">
+		<div class="rightCol">
+					</div>
+		
+	</div>
+</div>
+<div class="XGTFooter">
+	<div class="leftCol">
+		<a href="/contact/">Contact Us</a> - <a href="/legal/terms/">Terms of Use</a> - <a href="/legal/privacy/">Privacy Policy</a> - <a href="/sitemap/">Sitemap</a>
+		<br />
+		Follow us on: <a href="http://www.facebook.com/pages/Xbox-Gamertag/134742809876061" target=_blank" rel="nofollow">Facebook</a> - <a href="http://twitter.com/XboxGamerTagCom"  target=_blank" rel="nofollow">Twitter</a> - <a href="http://www.youtube.com/user/XboxGamertagCom" target=_blank" rel="nofollow">Youtube</a>
+
+</div>
+	<div class="rightCol">
+		<p>Xboxgamertag.com &#169 2010 - 2015</p>
+		<p>XboxGamertag.com is a member of the Xbox Community Developer Program (XCDP)</p>
+		<p>We are not affiliated with Microsoft or Xbox</p>
+	</div>	
+</div>
+<script type="text/javascript">  var _gaq = _gaq || [];  _gaq.push(['_setAccount', 'UA-16948229-1']);  _gaq.push(['_trackPageview']);  (function() {    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);  })();</script>
+<script type="text/javascript">
+var clicky_site_ids = clicky_site_ids || [];
+clicky_site_ids.push(100851514);
+(function() {
+  var s = document.createElement('script');
+  s.type = 'text/javascript';
+  s.async = true;
+  s.src = '//static.getclicky.com/js';
+  ( document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0] ).appendChild( s );
+})();
+</script>
+</body>
+</html>
