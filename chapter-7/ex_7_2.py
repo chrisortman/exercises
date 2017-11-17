@@ -27,14 +27,3 @@ def main():
         if i < 6:
             print(', ', end='')
 main()
-
-        # display the current value
-
-        
-        # add a comma and space, unless this is the last value
-
-
-
-# Call the main function.
-
-

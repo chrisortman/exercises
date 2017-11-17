@@ -3,7 +3,7 @@
 # Program to Total a week's sales (seven inputs).
 # This program prompts a user for a sales amount for each day of the week,
 # totals them up, then displays the total formatted as currency.
-
+from validations import can_cast_to_float
 
 
 # Define the main function
@@ -41,13 +41,6 @@ def main():
     print("Total Sales: ${:.2f}".format(sum(daily_sales)))
 
 
-# Include a function to ensure the program has valid float values
-def can_cast_to_float(x):
-    try:
-        float(x)
-        return True
-    except:
-        return False
 
 
 
