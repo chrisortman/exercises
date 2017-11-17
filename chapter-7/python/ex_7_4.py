@@ -1,46 +1,33 @@
 # Programming Exercise 7-4
-#
-# Program to calculate simple statistics for 20 user-supplied numbers.
-# This program prompts the user for 20 values,
-# assigns them to a list, then finds the sum, min and max values,
-# and displays the results.
 
+def main():
+    # List to store numbers
+    number_list = []
 
+    # Variables
+    low = 0.0
+    high = 0.0
+    total = 0.0
+    average = 0.0
+    number = 0
 
-# define the main function
+    # Prompt for numbers 
+    for i in range(20):
+        number = float(input('Enter number ' + \
+                             str(i + 1) + \
+                             ' of 20: '))
+        number_list.append(number)
 
-    # define a constant to number of inputs and set it to 20
-    
+    low = min(number_list)
+    high = max(number_list)
+    total = sum(number_list)
+    average = total / 20.0
 
-    # declare number list as an empty list
+    print ('Low:', low)
+    print ('High:', high)
+    print ('Total:', format(total, ',.2f'))
+    print ('Average:', format(average, ',.2f'))
 
-
-    # declare float variables for high, low, total, average, current
-
-
-    # declare a string variable for user input
-
-
-    # loop to gather inputs (use the number of inputs constant)
-    
-        # prompt the user for a number
-
-        # use a function to ensure the user input can be cast to a float
-
-        # add the current value to the list
-
-    # assign the high (max), low (min), and total (sum) from the number list
-
-    # calculate the average using total and the number of inputs constant
-
-    # display the results, formatting floats to two decimal places
-
-
-
-# function to ensure user input can be cast to a float
-
-
-
-# Call the main function to start the program
-
+# Call the main function.
+main()
 

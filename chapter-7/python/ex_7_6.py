@@ -1,52 +1,44 @@
 # Programming Exercise 7-6
-#
-# Program to create list of values taken from another list, based on a comparison.
-# This program takes no input,
-# it uses a comparison value that it compares to a predefined list,
-#   adding values larger than the comparison value to a new list,
-# then displays the results.
 
+def main():
+    # Declare local variables
+    number = 5
+    number_list = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 
+    # Display the number.
+    print('Number:', number)
 
-# define the main function
-
-    # Define a constant for comparison number (5)
+    # Display the list of numbers.
+    print('List of numbers:\n', number_list, sep='')
     
-    # define a  comparison list of values (1 to 10)
+    # Display the list of numbers that are larger
+    # than the number.
+    print('List of numbers that are larger than ', \
+          number, ':', sep='')
+    
+    # Call the display_larger_than_n_list function,
+    # passing a number and number list as arguments.
+    display_larger_than_n_list(number, number_list)
 
-    # declare result list as an empty list
+# The display_larger_than_n_list function accepts two arguments:
+# a list, and a number. The function displays all of the numbers
+# in the list that are greater than the number.
+def display_larger_than_n_list(n, n_list):
+    # Declare an empty list.
+    larger_than_n_list = []
 
-   
-    # Call the function to compare for larger values and assign the result
-    # to new list, passing comparison number and comparison list as arguments.
-
-
-    # Display the comparison number.
-
-    # Display the comparison list on a single line
-
-    # Display the new list on a single list
-
-
-
-# Function to return a list of integers larger than a comparison value from a list.
-# This function accepts a comparison value and a comparison list as parameters,
-# compares each value to the comparison value, and if larger adds it to a new list,
-# then returns the new list of integers to the calling function.
-
-    # Declare result list as an empty list.
- 
-
-    # Loop through the values in the comparison list.
+    # Loop through the values in the list.
+    for value in n_list:
         
-        # if the current value is greater than the comparison value
+        # Determine if a value is greater than n.
+        if value > n:
             
-            # append the value to the return list.
- 
-    # return the return list.
- 
+            # If so, append the value to the list.
+            larger_than_n_list.append(value)
+
+    # Display the list.
+    print(larger_than_n_list)
         
-
-# Call the main function to start the program
-
+# Call the main function.
+main()
 

@@ -1,47 +1,34 @@
 # Programming Exercise 7-5
-#
-# Program to check to see if a user-supplied account number is in a reference file.
-# This program prompts the user for an account number,
-# compares it to the values stored in a text file,
-# and displays a message indicated whether it was found.
 
+def main():
+    # Local variables
+    test_account = ''
 
+    try:
+        # Open the file for reading
+        input_file = open('charge_accounts.txt', 'r')
 
-# define the main function
+        # Read all the lines in the file into a list
+        accounts = input_file.readlines()
 
-    # define a string constant to hold the reference list file name (charge_accounts.txt)
+        # Strip trailing '\n' from all elements of the list
+        for i in range(len(accounts)):
+            accounts[i] = accounts[i].rstrip('\n')
 
-    # define a local string variable to hold an account number to check
+        # Get user input
+        test_account = input('Enter the account number to be validated: ')
 
+        # Use in operator to search for the account specified by user
+        if test_account in accounts:
+            print('Account number', test_account, 'is valid.')
+        else:
+            print('Account number', test_account, 'is not valid.')
 
+    except IOError:
+        print('The file could not be found')
+    except:
+        print('An error occurred')
 
-    # use a try block whenever accessing stored data
-
-
-        # Open the reference list file for reading
-
-        # Read all the lines in the file into an account list
-
-        # use a loop to strip trailing '\n' from all account list elements        for i in range(len(accounts)):
-
-        # prompt the user for an account number to check
-
-        # if  account number to check is in account list
-
-            # display a success message
-
-        # else
-
-            # display a failure message
-
-    # use an except block to catch IOError
-
-        # display a message indicating the file could not be opened
-
-    # use a generic except block for any other errors
-
-
-
-# Call the main function to start the program
-
+# Call the main function.
+main()
 
