@@ -5,7 +5,7 @@
 # calculates the total and average, finds the high and low values,
 # and displays the results on the screen.
 
-from validations import can_cast_to_float
+from validations import prompt_for_float
 
 
 # define the main function
@@ -32,17 +32,7 @@ def main():
     for i in range(12):
         # prompt the user for rainfall input, using the month name in the prompt
         prompt_text = "Please enter rainfall for {}:".format(month_names[i])
-        need_value = True
-        while need_value:
-            input_value = input(prompt_text)
-            # use a function to make sure rainfall input can be cast to a float
-            if can_cast_to_float(input_value):
-                # assign rainfall input value to the current item in monthly rainfall list
-                monthly_rainfall[i] = float(input_value)
-                need_value = False
-            else:
-                print("That's not a number")
-
+        monthly_rainfall[i] = prompt_for_float(prompt_text, "That's not a number")
 
     # Calculate the total of monthly rainfall
     total_rainfall = sum(monthly_rainfall)
