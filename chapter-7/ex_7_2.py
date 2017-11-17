@@ -8,20 +8,25 @@
 
 
 # to use the random functions, import the random module
-
+import random
 
 
 # Define the main function
-
+def main():
     # Initialize a list of integers.
-
+    numbers = []
 
     # loop through the list
-
+    for i in range(7):
+        numbers.append(random.randint(0,9))
          # assigning a random integer to each member of the list
 
     # loop through the list
-
+    for i in range(7):
+        print(numbers[i], end="")
+        if i < 6:
+            print(', ', end='')
+main()
 
         # display the current value
 
