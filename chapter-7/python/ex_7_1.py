@@ -12,7 +12,7 @@ def main():
 
 
     # Initialize lists for daily sales and days of the week (7 elements each)
-    daily_sales = [0.0 for i in range(7)]
+    daily_sales = [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0 ]
     days_of_week = ["Sunday",
                     "Monday",
                     "Tuesday",
